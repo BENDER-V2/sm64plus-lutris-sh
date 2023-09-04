@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=arch
+Comment=
+Exec=sh/arch.sh
+Icon=
+Path=
+Terminal=true
+StartupNotify=false

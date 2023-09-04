@@ -1,0 +1,1 @@
+sudo pacman -S base-devel python sdl2 glew
