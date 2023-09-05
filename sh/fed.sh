@@ -1,1 +1,0 @@
-sudo dnf install make gcc python3 glew-devel SDL2-devel

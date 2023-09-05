@@ -1,1 +1,0 @@
-sudo apt install -y git build-essential pkg-config libusb-1.0-0-dev libsdl2-dev
